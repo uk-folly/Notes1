@@ -7,12 +7,12 @@ Then wear the gold hat, if that will move her;
 If you can bounce high, bounce for her too,
 Till she cry "Lover, gold-hatted, high-bouncing lover,
 I must have you!"
-	--THOMAS PARKE D'INVILLIERS 
-	
+	--THOMAS PARKE D'INVILLIERS
 
-	
-	
-Chapter 1 
+
+
+
+Chapter 1
 
 
 In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.
@@ -191,7 +191,7 @@ In my younger and more vulnerable years my father gave me some advice that I've 
 	Their interest rather touched me and made them less remotely rich--nevertheless, I was confused and a little disgusted as I drove away. It seemed to me that the thing for Daisy to do was to rush out of the house, child in arms--but apparently there were no such intentions in her head. As for Tom, the fact that he "had some woman in New York" was really less surprising than that he had been depressed by a book.
 	Something was making him nibble at the edge of stale ideas as if his sturdy physical egotism no longer nourished his peremptory heart.
 	Already it was deep summer on roadhouse roofs and in front of wayside garages, where new red gas-pumps sat out in pools of light, and when I reached my estate at West Egg I ran the car under its shed and sat for a while on an abandoned grass roller in the yard. The wind had blown off, leaving a loud bright night with wings beating in the trees and a persistent organ sound as the full bellows of the earth blew the frogs full of life. The silhouette of a moving cat wavered across the moonlight and turning my head to watch it I saw that I was not alone--fifty feet away a figure had emerged from the shadow of my neighbor's mansion and was standing with his hands in his pockets regarding the silver pepper of the stars. Something in his leisurely movements and the secure position of his feet upon the lawn suggested that it was Mr. Gatsby himself, come out to determine what share was his of our local heavens.
-	I decided to call to him. Miss Baker had mentioned him at dinner, and that would do for an introduction. But I didn't call to him for he gave a sudden intimation that he was content to be alone--he stretched out his arms toward the dark water in a curious way, and far as I was from him I could have sworn he was trembling. Involuntarily I glanced seaward--and distinguished nothing except a single green light, minute and far away, that might have been the end of a dock. When I looked once more for Gatsby he had vanished, and I was alone again in the unquiet darkness.
+	I decided to call to him. Miss Baker had mentioned him at dinner, and that would do for an introduction. But I didn't call to him for he gave a sudden intimation that he was content to be alone--he stretched out his arms toward the dark water in a curious way, and far as I was from him I could have sworn he was trembling. Involuntarily I glanced seaward--and distinguished nothing except a single green light, minute and far away, that might have been the end of a dock. When I looked once more for Gatsby he had vanished, and I was alone again in the unquiet darkness. 
 
 
 Chapter 2
@@ -485,7 +485,7 @@ There was music from my neighbor's house through the summer nights. In his blue 
 	"It was--simply amazing," she repeated abstractedly. "But I swore I wouldn't tell it and here I am tantalizing you." She yawned gracefully in my face. "Please come and see me.... Phone book.
 	... Under the name of Mrs. Sigourney Howard.... My aunt...."
 	She was hurrying off as she talked--her brown hand waved a jaunty salute as she melted into her party at the door.
-	Rather ashamed that on my first appearance I had stayed so late, I joined the last of Gatsby's guests who were clustered around him. I wanted to explain that I'd hunted for him early in the evening and to apologize for not having known him in the garden. 
+	Rather ashamed that on my first appearance I had stayed so late, I joined the last of Gatsby's guests who were clustered around him. I wanted to explain that I'd hunted for him early in the evening and to apologize for not having known him in the garden.
 	"Don't mention it," he enjoined me eagerly. "Don't give it another thought, old sport." The familiar expression held no more familiarity than the hand which reassuringly brushed my shoulder. "And don't forget we're going up in the hydroplane tomorrow morning at nine o'clock."
 	Then the butler, behind his shoulder:
 	"Philadelphia wants you on the phone, sir."
@@ -1687,19 +1687,19 @@ After two years I remember the rest of that day, and that night and the next day
 	Some one started to ask me questions but I broke away and going upstairs looked hastily through the unlocked parts of his desk--he'd never told me definitely that his parents were dead. But there was nothing--only the picture of Dan Cody, a token of forgotten violence staring down from the wall.
 	Next morning I sent the butler to New York with a letter to Wolfshiem which asked for information and urged him to come out on the next train. That request seemed superfluous when I wrote it. I was sure he'd start when he saw the newspapers, just as I was sure there'd be a wire from Daisy before noon--but neither a wire nor Mr. Wolfshiem arrived, no one arrived except more police and photographers and newspaper men.
 	When the butler brought back Wolfshiem's answer I began to have a feeling of defiance, of scornful solidarity between Gatsby and me against them all.
-	
-	_Dear Mr. Carraway. 
-	
+
+	_Dear Mr. Carraway.
+
 	This has been one of the most terrible shocks of my life to me I hardly can believe it that it is true at all. Such a mad act as that man did should make us all think. I cannot come down now as I am tied up in some very important business and cannot get mixed up in this thing now. If there is anything I can do a little later let me know in a letter by Edgar. I hardly know where I am when I hear about a thing like this and am completely knocked down and out.
 
 	Yours truly
 
-		MEYER WOLFSHIEM_ 
-		
+		MEYER WOLFSHIEM_
+
 	and then hasty addenda beneath:
-	
+
 	_Let me know about the funeral etc do not know his family at all._
-	
+
 	When the phone rang that afternoon and Long Distance said Chicago was calling I thought this would be Daisy at last. But the connection came through as a man's voice, very thin and far away.
 	"This is Slagle speaking...."
 	"Yes?" The name was unfamiliar.
@@ -1795,7 +1795,7 @@ After two years I remember the rest of that day, and that night and the next day
 	"Look here, this is a book he had when he was a boy. It just shows you."
 	He opened it at the back cover and turned it around for me to see.
 	On the last fly-leaf was printed the word SCHEDULE, and the date September 12th, 1906. And underneath:
-	
+
 	Rise from bed................ 6.00 A.M.
 	Dumbbell exercise and wall-scaling...... 6.15-6.30 "
 	Study electricity, etc............ 7.15-8.15 "
@@ -1868,4 +1868,3 @@ After two years I remember the rest of that day, and that night and the next day
 
 
 THE END
-
